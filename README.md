@@ -1,4 +1,5 @@
 # nob_crm
+Nob-CRM is a CRM based on vuejs framework with my django based project.
 
 ## Project setup
 ```
